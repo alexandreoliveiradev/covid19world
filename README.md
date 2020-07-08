@@ -29,16 +29,16 @@ v1.5 Last updated version, full data fetched, bugs fixed.
 ### console interface
 
 This is how you can view compared countries:
-![](https://imgur.com/dvmPH50)
+![compare](https://imgur.com/dvmPH50)
 
 This is the appearance of top countries:
-![](https://imgur.com/1DHBXby)
+![tops](https://imgur.com/1DHBXby)
 
 This is the world report, in full text:
-![](https://imgur.com/eoATTjo)
+![report](https://imgur.com/eoATTjo)
 
 And how a country report looks like:
-![](https://imgur.com/nEngNUA)
+![report2](https://imgur.com/nEngNUA)
 
 
 ### older updates:
