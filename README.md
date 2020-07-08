@@ -26,6 +26,21 @@ Last update on June 22nd, 2020. If any trouble arises after this, its because wo
 
 v1.5 Last updated version, full data fetched, bugs fixed.
 
+### console interface
+
+This is how you can view compared countries:
+![](https://imgur.com/dvmPH50)
+
+This is the appearance of top countries:
+![](https://imgur.com/1DHBXby)
+
+This is the world report, in full text:
+![](https://imgur.com/eoATTjo)
+
+And how a country report looks like:
+![](https://imgur.com/nEngNUA)
+
+
 ### older updates:
 
 v1.4 Now you can download the executable file [here](https://mega.nz/file/Nrw3yL7K#lJdd0l9akoiZaFjIf_wT5WH16rhrRl-6ca4TJVdjd6E) or just run the .jar on target/artifacts with `$java -jar covid19world.jar`. 
