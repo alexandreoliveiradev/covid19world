@@ -12,7 +12,7 @@ Hope you can use this application, that is going to be under development in the 
 Cheers, 
 Alex
 
-*I need to thank my friend Marta Pinheiro who helped me out in the process.*
+*I need to thank my friend [Marta Pinheiro](https://github.com/smartiepinheiro) who helped me out in the process.*
 
 ### Download link:
 Get Covid19World [here](https://mega.nz/file/Nrw3yL7K#lJdd0l9akoiZaFjIf_wT5WH16rhrRl-6ca4TJVdjd6E).
